@@ -1,4 +1,6 @@
 # Store-manage-project
 the language wich used in this project is Java .
-you should install Xamp program and put the content of (Xamp Data) Folder in your Xamp , Xamp >>Sql >>put Folder.
-open Xamp and you can use the project 
+1 - install Xamp program 
+2 - Copy (Xamp Data) Folder 
+3 - Go to your Xamp >> Sql >> Paste Folder
+4 - open Xamp and you can use project now 
